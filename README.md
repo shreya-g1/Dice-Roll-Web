@@ -1,2 +1,2 @@
-# Dice-Roll-Web
+# Dice-Roll-Web-App
 Random Number Generator web app
